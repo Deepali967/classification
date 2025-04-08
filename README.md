@@ -13,6 +13,8 @@
 - `pandas`
 - `numpy`
 
+## 📦 Examples
+
 🧠 Resume Classification
 Classifies resumes into job categories using TF-IDF and Decision Trees. Includes preprocessing, feature extraction, and evaluation with accuracy score.
 
