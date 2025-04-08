@@ -13,12 +13,8 @@
 - `pandas`
 - `numpy`
 
-## 🚀 How to Run
+🧠 Resume Classification
+Classifies resumes into job categories using TF-IDF and Decision Trees. Includes preprocessing, feature extraction, and evaluation with accuracy score.
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/classification.git
-cd classification
-
-# Run logistic regression
-jupyter notebook spam-classification.ipynb
+📩 Spam Classification
+Detects spam messages using logistic regression and TF-IDF features. Includes data cleaning, model training, and performance metrics.
