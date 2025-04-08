@@ -21,4 +21,4 @@ git clone https://github.com/yourusername/classification.git
 cd classification
 
 # Run logistic regression
-python logistic_regression.py
+jupyter notebook spam-classification.ipynb
