@@ -20,3 +20,18 @@
 
 ## Spam Classification: 
   Detects spam messages using logistic regression and TF-IDF features. Includes data cleaning, model training, and performance metrics.
+
+## Diabetes disease Prediction: 
+   predict whether a patient has diabetes based on diagnostic measurements using naive bayes(Gaussian NB model).
+  - **Data Loading**
+  - **Data Cleaning & Preprocessing**
+   - Handling missing values
+   - Feature scaling (StandardScaler)
+-. **Train/Test Split**
+-. **Model Training**
+-. **Model Evaluation**
+   - Accuracy Score
+   - Classification Report
+   - Confusion Matrix
+
+
