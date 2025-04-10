@@ -17,6 +17,8 @@
 
 ## Resume Classification:
   Classifies resumes into job categories using TF-IDF and Decision Trees. Includes preprocessing, feature extraction, and evaluation with accuracy score.
+## Movie Review sentiment:
+  Classifies movie reviews into positive, negative sentiments using TF-IDF and Decision Trees. Includes preprocessing, feature extraction, and evaluation with accuracy score.
 
 ## Spam Classification: 
   Detects spam messages using logistic regression and TF-IDF features. Includes data cleaning, model training, and performance metrics.
