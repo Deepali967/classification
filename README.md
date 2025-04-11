@@ -22,6 +22,8 @@
 
 ## Spam Classification: 
   Detects spam messages using logistic regression and TF-IDF features. Includes data cleaning, model training, and performance metrics.
+## Customer chrun prediction:
+   Customer churn prediction using SVM with preprocessing, feature encoding, and evaluation to classify whether a customer is likely to churn based on behavioral and subscription data.
 
 ## Diabetes disease Prediction: 
    predict whether a patient has diabetes based on diagnostic measurements using naive bayes(Gaussian NB model).
